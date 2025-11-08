@@ -1,5 +1,7 @@
 #Leetcode Number (136)
 
+# No sort, no hashmap (No extra runtime or space)
+
 class Solution(object):
     def singleNumber(self, nums):
         """
